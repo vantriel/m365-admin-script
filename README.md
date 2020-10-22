@@ -1,8 +1,23 @@
-## m365-admin-scripts
+# m365-admin-script
 [![PowerShell](https://img.shields.io/badge/-PowerShell-_?style=flat-square&logo=powershell&color=blue&logoColor=white)](https://docs.microsoft.com/de-de/powershell/scripting/overview?view=powershell-7) ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-_?style=flat-square&logo=microsoft%20office&color=red&logoColor=white) [![License](https://img.shields.io/github/license/vantriel/m365-admin-scripts?style=flat-square)](https://spdx.org/licenses/MIT.html) ![File size](https://img.shields.io/github/languages/code-size/vantriel/m365-admin-scripts?color=blue&style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/vantriel/m365-admin-scripts?style=flat-square)
 
-Useful scripts for automation of Microsoft 365 administrative tasks
+Useful script for automation of Microsoft 365 administrative tasks.
 
+## To-Do
+- [x] Add installer-script.
+- [ ] Translate to english.
+- [x] Add option for Exchange Online mailbox regional settings.
+- [ ] Add options for Microsoft 365 and Microsoft Active Directory administrative tasks.
+
+
+## Third-party modules
+This script uses the following third-party PowerShell-modules.
+* AnyBox by dm3ll3n
+  * [GitHub](https://github.com/dm3ll3n/AnyBox)
+  * [PowerShell Gallery](https://www.powershellgallery.com/packages/AnyBox/) 
+* ExchangeOnlineManagement by Microsoft
+  * [PowerShell Gallery](https://www.powershellgallery.com/packages/ExchangeOnlineManagement)
+  
 ## License
 ```
 MIT License
