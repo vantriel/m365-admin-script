@@ -1,7 +1,7 @@
 # m365-admin-script
 [![PowerShell](https://img.shields.io/badge/-PowerShell-_?style=flat-square&logo=powershell&color=blue&logoColor=white)](https://docs.microsoft.com/de-de/powershell/scripting/overview?view=powershell-7) ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-_?style=flat-square&logo=microsoft%20office&color=red&logoColor=white) [![License](https://img.shields.io/github/license/vantriel/m365-admin-scripts?style=flat-square)](https://spdx.org/licenses/MIT.html) ![File size](https://img.shields.io/github/languages/code-size/vantriel/m365-admin-scripts?color=blue&style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/vantriel/m365-admin-scripts?style=flat-square)
 
-Useful script for automation of Microsoft 365 administrative tasks.
+A script to provide easier access to Microsoft 365 admin tools.
 
 ## To-Do
 - [x] Add installer-script.
